@@ -1,9 +1,45 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Halaman-1" id="bUuWbq4Zh08xFYO1OmWF">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vJoYq8fyyPo-0Whrqavx-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vJoYq8fyyPo-0Whrqavx-1" target="vJoYq8fyyPo-0Whrqavx-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vJoYq8fyyPo-0Whrqavx-1" value="login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="210" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vJoYq8fyyPo-0Whrqavx-2" value="logout&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="570" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vJoYq8fyyPo-0Whrqavx-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="vJoYq8fyyPo-0Whrqavx-1" target="vJoYq8fyyPo-0Whrqavx-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="355" y="320" as="sourcePoint" />
+            <mxPoint x="405" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vJoYq8fyyPo-0Whrqavx-6" value="pilih role" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vJoYq8fyyPo-0Whrqavx-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vJoYq8fyyPo-0Whrqavx-8" target="vJoYq8fyyPo-0Whrqavx-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vJoYq8fyyPo-0Whrqavx-8" value="login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vJoYq8fyyPo-0Whrqavx-9" value="logout&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="620" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vJoYq8fyyPo-0Whrqavx-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="vJoYq8fyyPo-0Whrqavx-8" target="vJoYq8fyyPo-0Whrqavx-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="645" y="370" as="sourcePoint" />
+            <mxPoint x="695" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vJoYq8fyyPo-0Whrqavx-11" value="pilih role" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
